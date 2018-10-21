@@ -1,7 +1,7 @@
 <template>
     <section>
         <h3 class="bio">
-            Asa is a wonderful musiciain. A legend.<!-- , 
+            Asa is a wonderful musiciain. <!-- A legend., 
             probably one of the greatest R&B artist that Nigeria has produced, 
             even though her artistry is not celebrated well enough in Nigeria -->.
         </h3>
