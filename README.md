@@ -1,6 +1,6 @@
 # asa
 
-> dummy site, practicing with nuxt.js
+> dummy vue.js site using nuxt.js
 
 ## Build Setup
 

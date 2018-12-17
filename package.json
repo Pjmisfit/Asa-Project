@@ -16,6 +16,7 @@
     "@fortawesome/fontawesome-free-solid": "^5.0.13",
     "@nuxtjs/pwa": "^2.6.0",
     "cross-env": "^5.2.0",
+    "event-stream": "^3.3.4",
     "nuxt": "^2.0.0",
     "nuxt-fontawesome": "^0.3.0",
     "vue-social-sharing": "^2.3.3"
