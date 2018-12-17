@@ -4,8 +4,9 @@
 
         <form action="" name="contact" method="POST" data-netlify="true">
             <input type="text" placeholder="name"> <br><br>
-            <input type="email" placeholder="your email"><br>
+            <input type="email" placeholder="your email"><br><br>
             <input type="text" placeholder="your message"> <br><br>
+            <p>dsds</p>
             <button>Submit</button>
         </form>
     </section>
