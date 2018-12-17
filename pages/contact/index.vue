@@ -6,7 +6,7 @@
             <input type="text" placeholder="name"> <br><br>
             <input type="email" placeholder="your email"><br><br>
             <input type="text" placeholder="your message"> <br><br>
-            <p>dsds</p>
+            <p>Hey don't spam me!</p>
             <button>Submit</button>
         </form>
     </section>
