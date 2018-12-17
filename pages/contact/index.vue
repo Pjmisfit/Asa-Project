@@ -2,11 +2,12 @@
     <section>
         <h3>Get in touch with Asa.</h3> <br><br><br>
 
-        <form action="" name="contact" method="POST" data-netlify="true">
+        <form action="../success/" name="contact" method="POST" data-netlify="true">
             <input type="text" placeholder="name"> <br><br>
             <input type="email" placeholder="your email"><br><br>
             <input type="text" placeholder="your message"> <br><br>
             <p>Hey don't spam me!</p>
+            <a href="../success/">sucess</a>
             <button>Submit</button>
         </form>
     </section>
